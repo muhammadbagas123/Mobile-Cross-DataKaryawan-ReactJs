@@ -1,0 +1,7 @@
+{
+  "name": "ctrl-cv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
